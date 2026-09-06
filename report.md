@@ -1,5 +1,7 @@
 # Technical Report: Autonomous Local LLM ML Agent
 
+GitHub link: https://github.com/jannatulferdousprome/CSE445-assignment-3
+
 **Course:** CSE445 — Machine Learning
 
 **Assignment:** #3 — Building an Autonomous Local LLM Machine Learning Agent in Windows WSL

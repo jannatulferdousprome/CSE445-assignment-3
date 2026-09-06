@@ -1,5 +1,7 @@
 # CSE445 Assignment #3 — Autonomous Local LLM ML Agent
 
+GitHub link: https://github.com/jannatulferdousprome/CSE445-assignment-3
+
 ## Student Info
 
 - Student name: Jannatul Ferdous Prome

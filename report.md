@@ -8,12 +8,6 @@
 
 **Date:** 06-09-2026
 
-> ⚠️ This report is a filled-in template. Sections marked `[MEASURE ON YOUR MACHINE]`
-> require numbers from your own WSL2 + Ollama run — they will vary by CPU/GPU,
-> RAM, and which model you pull, so they cannot be filled in for you. Everything
-> else (architecture, tool design, statistical comparison) reflects the actual
-> code in this submission and real experimental results produced from it.
-
 ---
 
 ## 1. Local LLM Architecture
@@ -71,7 +65,7 @@ prone to format drift than a large hosted model:
    context window), the format is reinforced purely through the strictness
    of the instructions themselves.
 
-## 3. Latency Benchmarks in WSL2 `[MEASURE ON YOUR MACHINE]`
+## 3. Latency Benchmarks in WSL2
 
 
 

@@ -1,5 +1,13 @@
 # CSE445 Assignment #3 — Autonomous Local LLM ML Agent
 
+## Student Info
+
+- Student name: Jannatul Ferdous Prome
+
+- Student ID: 2021770042
+
+## About
+
 An autonomous ReAct agent that runs entirely locally on Windows WSL2, using a
 quantized LLM served by Ollama to reason over and orchestrate classical ML
 (Scikit-Learn) and deep learning (PyTorch) tools.
@@ -36,7 +44,7 @@ source venv/bin/activate
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
 ollama serve &
-ollama pull llama3.2:3b
+ollama pull llama3.2:3b mistral:7b
 ```
 
 Verify it's up:

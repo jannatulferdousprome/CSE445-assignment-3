@@ -1,0 +1,14 @@
+Running comprehensive benchmark across datasets: ['wine', 'breast_cancer']
+
+Benchmark complete. Report written to: benchmark_report.md
+
+| Dataset | Algorithm | Test Accuracy | CV Mean Accuracy | CV Std Dev |
+|:-|:-|:-|:-|:-|
+| wine | decision_tree | 0.9444 | 0.8937 | 0.0472 |
+| wine | random_forest | 1.0000 | 0.9610 | 0.0221 |
+| wine | logistic_regression | 0.9722 | 0.9889 | 0.0136 |
+| wine | deep_pytorch_mlp | 0.9722 | N/A | N/A |
+| breast_cancer | decision_tree | 0.9386 | 0.9209 | 0.0202 |
+| breast_cancer | random_forest | 0.9561 | 0.9543 | 0.0244 |
+| breast_cancer | logistic_regression | 0.9825 | 0.9807 | 0.0065 |
+| breast_cancer | deep_pytorch_mlp | 0.9649 | N/A | N/A |
